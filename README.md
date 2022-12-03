@@ -9,8 +9,9 @@
   <a href="mailto:syedmuhammadmaroob123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/maroobsyed">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://maroobsyed.web.app/">
+    //<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/my%20portfolio-%23313bac?style=for-the-badge&logo=googlechrome&logoColor=white alt="Maroob Syed Portfolio"/>
   </a>
 </div>
 <div id="badges" align="center">
